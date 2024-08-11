@@ -832,7 +832,7 @@ img {
 
   .explore-content {
     padding-top: 28rem;
-    grid-template-columns: 670px, 1fr;
+    grid-template-columns: 670px 1fr;
   }
 
   .explore-data,
